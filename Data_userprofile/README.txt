@@ -7,6 +7,7 @@ mismatches.txt: pairs listed here should not be considered. Not yet considered i
 Inside full_profile.zip:
    training.csv: 38,839,204 listening records of 1,019,318 users.
    test.csv: 10,581,579, listening records of 999,221 users.
+Because the dataset is too large, please access data here: https://drive.google.com/open?id=1bCm6yLFN9FPXLW58RXnwI2XB3dgm_2DI 
 
 Each listening record contains: user, count, track_id, song_id, artist, song_y
 Sample:
